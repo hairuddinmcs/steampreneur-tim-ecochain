@@ -27,7 +27,7 @@ Alur ini mengikuti pekerjaan admin pengiriman sehari-hari.
 
 1. Clone repositori:
    ```
-   git clone https://github.com/hairuddinmcs/steampreneur-EcoChain.git
+   git clone https://github.com/hairuddinmcs/steampreneur-tim-ecoCcain.git
    ```
 2. Masuk ke folder proyek:
    ```
